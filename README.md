@@ -14,10 +14,12 @@ Welcome to **Cloud Data Engineering**, a project designed to harness the power o
 
 ## 🛠️ Tech Stack
 - **Programming Language**: Python 🐍  
-- **Cloud Platforms**: AWS | GCP | Azure  
-- **Data Processing**: Apache Spark | Pandas  
-- **Storage**: S3 | BigQuery | Azure Blob Storage  
-- **Orchestration**: Apache Airflow | Prefect  
-- **Visualization**: Tableau | Power BI | Matplotlib  
+- **Data Analysis & Visualization**: NumPy, Pandas, Matplotlib  
+- **Databases**: SQL (PostgreSQL, T-SQL)  
+- **Cloud Platforms**: AWS  
+- **Data Warehousing**: Snowflake  
+- **Data Engineering Tools**: Apache Airflow, Apache Kafka  
+- **Containerization**: Docker (for data engineering)  
+- **Scripting**: Bash/Shell Scripting & Linux Commands   
 
 ---
